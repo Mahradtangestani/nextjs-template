@@ -6,8 +6,8 @@ import MainContextProvider from "@/context/MainContext";
 
 
 export const metadata = {
-  title: "Dark Mode",
-  description: "Description of Dark Mode",
+  title: "Nextjs Template",
+  description: "Nextjs Template",
 };
 
 export default function RootLayout({ children }) {
